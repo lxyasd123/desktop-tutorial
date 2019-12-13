@@ -7,6 +7,7 @@ body {
 	background: white;
 	padding: 15px;
 	border: 10px inset brown;
+	 border-radius: 1%;
 	margin: 30px auto;
 	width: 95%; float: center;
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
