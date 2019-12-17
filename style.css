@@ -1,9 +1,81 @@
 
 
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+  font-size: 5em;
+  background: none;
+  width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+   
+   }
+
 #banner {
-  background-image: url("https://lxyasd123.github/desktop-tutorial/exercise 02/image/5");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
 
   background-size: cover;
   background-position: bottom center;
   height: 700px;
   width: 0 auto;
+
+
+  
+ 
+}
+
+ #table-of-contents { 
+  list-style: none;
+  position:relative;
+  top: 25px;
+  left: 25px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 21px;
+  width: 50%;
+  color: black; 
+  display: inline;
+    }
+
+
+    #table-of-contents a { 
+display: block ; 
+display- width: 30 px;
+padding: 5px; 
+color: black;
+text-decoration: none;
+display: inline;;
+}
+
+
+#table-of-contents a:hover { 
+  color: white; 
+  background: black;
+  text-decoration: none;
+  display: inline;
+
+  
+}
+  
+
+
+
+
+
+
+
+   #banner .content h1 {
+  border: 3px solid white;
+   border-radius: 0%;
+  padding: 4px 200px;
+  position: relative;
+  top: 100px;
+  width: 400px;
+  margin: 0 auto;
+ 
+}

@@ -78,6 +78,7 @@ h1 {
 	font-size: 21px;
 	width: 50%;
 	color: black;	
+	display: inline;
     }
 
 
@@ -87,7 +88,7 @@ display- width: 30 px;
 padding: 5px; 
 color: black;
 text-decoration: none;
-
+display: inline;;
 }
 
 
@@ -95,6 +96,7 @@ text-decoration: none;
 	color: white; 
 	background: black;
 	text-decoration: none;
+	display: inline;
 
 	
 }
